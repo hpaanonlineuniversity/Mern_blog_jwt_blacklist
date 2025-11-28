@@ -8,3 +8,5 @@ backend express
 frontend react
 
 backend jwt with blacklist , using redis
+
+https://www.youtube.com/watch?v=sdk05DvP6Y4
